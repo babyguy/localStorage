@@ -1,0 +1,9 @@
+Chicos, buenos días. El desafío del tema de objetos literales en JS, es el siguiente: 
+La escuela, PequeñosGamberritos, quiere almacenar los datos de sus estudiantes los cuales serían:
+Nombre, Curso, Genero. 
+Además quiere registrar las notas de las 3 materias de esos estudiantes. 
+Haciendo uso del HTML, CSS y JAVASCRIPT (funciones, arreglos, DOM, localstorage,etc.) Debe permitir
+Almacenar los datos de los estudiantes.
+Mostrar el nombre de los estudiantes con el promedio de sus notas
+Mostrar los estudiantes que aprobaron y no aprobaron. Un estudiante aprueba, si el promedio de sus notas, es >=3.5.
+Debe tenerse en cuenta que las notas deben estar entre 0 y 5deben estar entre 0 y 5.
